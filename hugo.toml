@@ -1,0 +1,4 @@
+baseURL = "https://go-extractors.github.io/"
+locale = "en-us"
+title = "go-extractors"
+disableKinds = ["taxonomy", "term", "RSS", "sitemap"]

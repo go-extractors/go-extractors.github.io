@@ -1,0 +1,2 @@
+packages:
+  - { name: "extractors", chip: "E", desc: "The plugin framework: standalone extractor executables and the protocol they speak.", url: "https://github.com/go-extractors/extractors", doc: "https://pkg.go.dev/github.com/go-extractors/extractors" }
